@@ -5,14 +5,14 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sekojuku&layout=demo&count_private=true&theme=gruvbox">
 
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java&labelColor=red)
-![Spring](https://img.shields.io/badge/-Spring-green?style=flat-square&logo=Spring&labelColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-lightgreen?style=flat-square&logo=SpringBoot&labelColor=lightgrey&logoColor=lightgreen)
-![Apache Maven](https://img.shields.io/badge/-Apache%20Maven-orange?style=flat-square&logo=ApacheMaven&labelColor=white&logoColor=red)
-![Hibernate](https://img.shields.io/badge/-Hibernate-A3863D?style=flat-square&logo=Hibernate&labelColor=grey)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java&labelColor=red)
+![Spring](https://img.shields.io/badge/-Spring-green?style=flat-square&logo=spring&labelColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-lightgreen?style=flat-square&logo=springboot&labelColor=lightgrey&logoColor=lightgreen)
+![Apache Maven](https://img.shields.io/badge/-Apache%20Maven-orange?style=flat-square&logo=apachemaven&labelColor=white&logoColor=red)
+![Hibernate](https://img.shields.io/badge/-Hibernate-A3863D?style=flat-square&logo=hibernate&labelColor=grey)
 
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=flat-square)
+![ExpressJS](https://img.shields.io/badge/express.js-404D59?style=flat-square)
 
 ### Front-end
 
@@ -43,7 +43,7 @@
 
 ## You can find me here
 <a href="mailto:serikzhan.kuanyshev@gmail.com">
-	<img align="left" alt="Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg">
+	<img align="left" alt="Gmail" height="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg">
 </a>
 <a href="https://www.linkedin.com/in/kuanyshevserikzhan/">
     <img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
