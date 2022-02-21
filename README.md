@@ -41,7 +41,7 @@
 ## What I'm learning ...
 ![GoLang](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
-## You can find me here
+## You can contact me
 <a href="mailto:serikzhan.kuanyshev@gmail.com">
 	<img align="left" alt="Gmail" height="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg">
 </a>
